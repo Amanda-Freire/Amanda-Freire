@@ -4,6 +4,6 @@
 
 🔼 Depois de participar de uma imersão JavaScript da plataforma Alura, decidi mudar um pouco de carreira. 
 
-💻 Atualmente estou estudando JavaScript e Delphi por conta própria e já aprendi um pouco de HTML e CSS. 
+💻 Atualmente estou estudando PHP e Delphi por conta própria e já aprendi um pouco de HTML, CSS e JavaScript. 
 
 👩🏻‍💼 Trabalho como analista de suporte júnior e em breve vou começar a estudar Análise e Desenvolvimento de Sistemas na UNG.
