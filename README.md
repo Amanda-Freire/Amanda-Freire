@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Amanda 👋
 
-✌🏻 Tenho 21 anos e sou formada em técnico em mecatrônica na ETEC Prof. Horácio Augusto da Silveira.
+✌🏻 Tenho 22 anos e sou formada em técnico em mecatrônica na ETEC Prof. Horácio Augusto da Silveira.
 
 🔼 Depois de participar de uma imersão JavaScript da plataforma Alura, decidi mudar um pouco de carreira. 
 
